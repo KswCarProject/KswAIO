@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<redirects>
+
+    <!-- If this file gets corrupt, or you would like to reset it, just delete it off your internal storage -->
+    <!-- To ensure proper formatting, you can simply copy the entire contents of this file to: -->
+    <!-- https://www.freeformatter.com/xml-formatter.html -->
+
+<!-- redirection definition of "EasyConnection" tile does replace Phonemirror app-->
+    <redirect name="net.easyconn">com.contipark</redirect>
+
+<!-- redirection of "DVR" tile, does replace HD-DVR app -->
+    <redirect name="com.ankai.cardvr">de.mobilesoftwareag.clevertanken</redirect>
+
+<!-- redirection of "Filemanager" tile, does replace ES-Explorer app -->
+    <redirect name="com.estrongs.android.pop">com.zoulou.dab</redirect>
+
+<!-- redirection of "Browser" tile, does replace Google Chrome app -->
+    <redirect name="com.android.chrome">org.mozilla.firefox</redirect>
+
+</redirects>
+
+<!--
+Default Music Pl.	com.wits.ksw.media
+Autokit			cn.manstep.phonemirrorBox
+
+Amazon Music		com.amazon.mp3
+Apple Music		com.apple.android.music
+Audible			com.audible.application
+DAB-Z	 		com.zoulou.dab
+DS Audio		com.synology.DSaudio
+Deezer			deezer.android.app
+Tidal			com.aspiro.tidal
+Spotify			com.spotify.music
+Youtube Music		com.google.android.apps.youtube.music
+
+firefox 		org.mozilla.firefox
+
+Prime Video 		com.amazon.avod.thirdpartyclient
+Joyn			de.prosiebensat1digital.seventv
+Youtube			com.google.android.youtube
+ZDFMediathek		com.zdf.android.mediathek
+
+Contipark		com.contipark
+DB Navigator		de.hafas.android.db
+Clever-Tanken		de.mobilesoftwareag.clevertanken
+Wetter.com		com.wetter.androidclient
+WetterOnline		de.wetteronline.wetterapp
+ntv			de.lineas.lit.ntv.android
+Welt News		de.cellular.n24hybrid
+
+Tasker			net.dinglisch.android.taskerm
+cf-lumen		eu.chainfire.lumen
+SolidExplorer		pl.solidexplorer2
+GPSTest			com.chartcross.gpstest
+
+Whatsapp		com.whatsapp
+
+McDonalds		de.mcdonalds.mcdonaldsinfoapp
+Burger King		de.burgerking.kingfinder
+Liferando		com.yopeso.lieferando
+
+Aldi Talk		de.eplus.mappecc.client.android.alditalk
+Congstar		de.congstar.meincongstar
+Mein o2			canvasm.myo2
+
+Blackvue		comb.blackvuec
+Drive Analyzer		com.inatronic.bmw
+-->
