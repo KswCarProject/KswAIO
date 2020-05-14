@@ -4,7 +4,7 @@ Echo. *****     This will replace Default apps with KswRedirector		*****
 Echo. ***** 		   							*****
 echo. *****		!!! Do use at your own risk !!!				*****
 Echo. 
-SET /p _IP= enter the ip adress of device: 
+SET /p _IP= enter the ip adress of device (e.g. 192.168.0.1): 
 @echo connecting to device ....
 :pingloop
 @echo If %_ip% can not be connected please check ip adress again.
